@@ -19,7 +19,7 @@ float colorX;
 float colorY;
 float colorZ;
 
-//stuff sourced from coding train
+//stuff sourced from coding train -- https://www.youtube.com/watch?v=IKB1hWWedMk&t=1172s
 int cols, rows;
 int scl = 20;
 int w = 3000;
